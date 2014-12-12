@@ -1,2 +1,3 @@
-active-admin-examples
+Active Admin Examples
 =====================
+
