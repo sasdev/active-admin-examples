@@ -8,8 +8,6 @@ group :production do
   gem 'pg'
 end
 
-
-
 #Active Admin
 gem 'activeadmin', github: 'activeadmin'
 gem 'devise'
