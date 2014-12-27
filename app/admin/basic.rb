@@ -1,5 +1,5 @@
 ActiveAdmin.register Basic do
-  # menu :priority => 2
+   menu :priority => 2
   #  menu :label => 'Events'
   permit_params :eg_string,
                 :eg_boolean,
@@ -18,16 +18,13 @@ ActiveAdmin.register Basic do
     f.inputs do
       f.input :eg_string, :label => 'String', :hint => 'Used for short bit of text eg. "This is a string"'
       f.input :eg_boolean, :as => :select, :hint => 'can only be true or false', :label => 'Boolean'
-      f.input :eg_date, :hint => 'Year - Month - Day'
-      f.input :eg_datetime, :label => 'Date', :hint => 'Year - Month - Day - Hour - Second'
+      f.input :eg_date, :label => 'Date',:hint => 'Year - Month - Day'
+      f.input :eg_datetime, :label => 'Datetime', :hint => 'Year - Month - Day - Hour - Second'
       f.input :eg_time, :label => 'Time', :hint => 'Hour - Second'
       f.input :eg_decimal,  :label => 'Decimal', :hint => 'Store a real number eg 10.22232'
       f.input :eg_float,  :label => 'Float', :hint => 'Similiar to decimal, less accurate, rather use decimal'
       f.input :eg_integer,  :label => 'Integer', :hint => 'Stores a number without commas'
       f.input :eg_text,  :label => 'Text', :input_html => {:class => 'autogrow', :rows => 5, :cols => 30, :maxlength => 10}, :hint => 'Used for long sentences of text'
-      #     f.input :email
-      #     f.input :mobile
-      #     f.input :website
     end
     f.actions
   end

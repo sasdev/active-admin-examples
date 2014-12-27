@@ -2,6 +2,7 @@ source 'http://rubygems.org'
 
 group :development do
   gem 'sqlite3'
+  gem 'meta_request' #Chrome RailsPanel exstension
 end
 group :production do
   gem 'rails_12factor'
