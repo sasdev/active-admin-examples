@@ -49,10 +49,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="basic.rb" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="basic.rb" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/admin/basic.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="25" column="33" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.25747126" vertical-offset="288" max-vertical-offset="736">
+                <state line="27" column="7" selection-start="1383" selection-end="1383" vertical-scroll-proportion="0.99310344" vertical-offset="0" max-vertical-offset="736">
                   <folding />
                 </state>
               </provider>
@@ -62,10 +62,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="20141226174354_create_variations.rb" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="20141226174354_create_variations.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/db/migrate/20141226174354_create_variations.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="25" column="24" selection-start="630" selection-end="630" vertical-scroll-proportion="0.5839416" vertical-offset="240" max-vertical-offset="624">
+                <state line="25" column="24" selection-start="630" selection-end="630" vertical-scroll-proportion="1.459854" vertical-offset="0" max-vertical-offset="624">
                   <folding />
                 </state>
               </provider>
@@ -431,7 +431,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2734694" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2728513" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24929577" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -732,13 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20141226174354_create_variations.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="24" selection-start="630" selection-end="630" vertical-scroll-proportion="0.5839416" vertical-offset="240" max-vertical-offset="624">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/admin/variation.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="4" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="1008">
@@ -748,7 +741,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/admin/basic.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="33" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.25747126" vertical-offset="288" max-vertical-offset="736">
+        <state line="27" column="7" selection-start="1383" selection-end="1383" vertical-scroll-proportion="0.99310344" vertical-offset="0" max-vertical-offset="736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20141226174354_create_variations.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="24" selection-start="630" selection-end="630" vertical-scroll-proportion="1.459854" vertical-offset="0" max-vertical-offset="624">
           <folding />
         </state>
       </provider>
