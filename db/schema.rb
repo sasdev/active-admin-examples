@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141226174354) do
+ActiveRecord::Schema.define(version: 20141228110011) do
 
   create_table "active_admin_comments", force: true do |t|
     t.string   "namespace"
@@ -60,20 +60,22 @@ ActiveRecord::Schema.define(version: 20141226174354) do
     t.datetime "updated_at"
   end
 
+  create_table "layouts", force: true do |t|
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "variations", force: true do |t|
     t.string   "eg_string"
-    t.string   "eg_string_select_country"
     t.string   "eg_string_select"
     t.string   "eg_string_select_constants"
+    t.string   "eg_string_select_country"
+    t.string   "eg_string_datalist"
     t.boolean  "eg_boolean"
     t.boolean  "eg_boolean_dropdown"
     t.date     "eg_date"
-    t.datetime "eg_datetime"
-    t.time     "eg_time"
-    t.decimal  "eg_decimal"
-    t.float    "eg_float"
-    t.integer  "eg_integer"
-    t.text     "eg_text"
+    t.date     "eg_date_picker"
+    t.integer  "eg_integer_slider"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

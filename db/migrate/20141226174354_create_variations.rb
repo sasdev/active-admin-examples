@@ -6,6 +6,7 @@ class CreateVariations < ActiveRecord::Migration
       t.string :eg_string_select
       t.string :eg_string_select_constants
       t.string :eg_string_select_country
+      t.string :eg_string_datalist
 
       #Booleans
       t.boolean :eg_boolean
@@ -13,15 +14,18 @@ class CreateVariations < ActiveRecord::Migration
 
       #dates
       t.date :eg_date
-      t.datetime :eg_datetime
-      t.time :eg_time
+      t.date :eg_date_picker
+
+      #t.datetime :eg_datetime
+      #t.time :eg_time
       #decimal
-      t.decimal :eg_decimal
-      t.float :eg_float
+      #t.decimal :eg_decimal
+      #t.float :eg_float
       #integer
-      t.integer :eg_integer
+      #t.integer :eg_integer
+      t.integer :eg_integer_slider
       #text
-      t.text :eg_text
+      #t.text :eg_text
 
       t.timestamps
     end
