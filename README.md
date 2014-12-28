@@ -1,7 +1,7 @@
 
 Active Admin Examples
 =====================
-A demo to show examples on how to use active admin.
+A demo to show examples on how to use active admin.  
 Online demo - http://active-admin-examples.herokuapp.com/  
 username : admin@example.com    
 password : password  
