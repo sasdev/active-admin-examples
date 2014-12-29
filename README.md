@@ -35,7 +35,7 @@ Shows examples how the fields can be used in the following ways
       Datalist
     Attachments
       File
-      Image
+      Images with carrierwave
     Booleans
       Default
       select
