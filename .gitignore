@@ -2,6 +2,7 @@
 *.rbc
 capybara-*.html
 .rspec
+README.md
 /log
 /tmp
 /db/*.sqlite3
