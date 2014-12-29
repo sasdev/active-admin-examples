@@ -7,7 +7,8 @@ username : admin@example.com
 password : password  
 
 Basic Pages - preview http://i.imgur.com/oMj7m9w.png"  
-Variations - Preview http://i.imgur.com/D2Gm4QU.png"    
+Variations - preview http://i.imgur.com/D2Gm4QU.png"
+Layouts - preview http://imgur.com/tSgyHci
 
 Basic Examples
 ==============
@@ -49,10 +50,9 @@ Layouts
 =======
 Shows how to work with the layout. It currently has the following
 
-    Edit Page and view page
-       50 / 50 with css
-       Attribute Table
-       Table
-       Nested
+     50 / 50 with css
+     Attribute Table
+     Table
+     Nested
 
     
