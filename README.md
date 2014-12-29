@@ -6,9 +6,9 @@ Online demo - http://active-admin-examples.herokuapp.com/
 username : admin@example.com  
 password : password  
 
-Basic Pages - preview http://i.imgur.com/oMj7m9w.png"  
-Variations - preview http://i.imgur.com/D2Gm4QU.png"
-Layouts - preview http://imgur.com/tSgyHci
+Basic Pages - preview http://i.imgur.com/oMj7m9w.png  
+Variations - preview http://i.imgur.com/D2Gm4QU.png  
+Layouts - preview http://i.imgur.com/tSgyHci  
 
 Basic Examples
 ==============
