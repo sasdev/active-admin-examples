@@ -10,6 +10,7 @@ Basic Examples
 ==============
 show which fields can be saved to the database.
 
+
     String
     Boolean
     Date

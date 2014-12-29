@@ -15,3 +15,20 @@
 // For example, to change the default status-tag color:
 //
 //   .status_tag { background: #6090DB; }
+
+#main_content .panel {
+  clear : both;
+}
+
+.layout-left{
+  width: 49%;
+  float: left;
+  //border: solid 1px red;
+  clear:left !important;
+}
+
+.layout-right{
+  width: 49%;
+  float: right ;
+  clear: right !important;
+}

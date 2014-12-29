@@ -49,3 +49,9 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 gem 'country_select', '1.1.1'
+
+#images
+gem 'carrierwave'
+gem 'rmagick', :require => 'RMagick'
+gem 'aws-sdk', '~> 1.36.1'
+gem 'fog'

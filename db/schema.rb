@@ -61,6 +61,7 @@ ActiveRecord::Schema.define(version: 20141228110011) do
   end
 
   create_table "layouts", force: true do |t|
+    t.string   "placeholder"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -71,6 +72,8 @@ ActiveRecord::Schema.define(version: 20141228110011) do
     t.string   "eg_string_select_constants"
     t.string   "eg_string_select_country"
     t.string   "eg_string_datalist"
+    t.string   "eg_string_image"
+    t.string   "eg_string_file"
     t.boolean  "eg_boolean"
     t.boolean  "eg_boolean_dropdown"
     t.date     "eg_date"

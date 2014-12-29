@@ -7,6 +7,9 @@ class CreateVariations < ActiveRecord::Migration
       t.string :eg_string_select_constants
       t.string :eg_string_select_country
       t.string :eg_string_datalist
+      t.string :eg_string_file
+      t.string :eg_string_image
+
 
       #Booleans
       t.boolean :eg_boolean

@@ -2,7 +2,7 @@
 *.rbc
 capybara-*.html
 .rspec
-README.md
+
 /log
 /tmp
 /db/*.sqlite3
@@ -21,9 +21,8 @@ config/secrets.yml
 .idea/
 =======
 *.gem
-*.rbc
 /.config
-/coverage/
+
 /InstalledFiles
 /pkg/
 /spec/reports/
