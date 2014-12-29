@@ -48,7 +48,8 @@ Shows examples how the fields can be used in the following ways
 Layouts
 =======
 Shows how to work with the layout. It currently has the following
-   Edit Page and view page
+
+    Edit Page and view page
        50 / 50 with css
        Attribute Table
        Table
